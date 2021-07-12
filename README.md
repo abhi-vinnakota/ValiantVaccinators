@@ -1,5 +1,5 @@
 # Team: Valiant Vaccinators
-# Members: Abhi Vinnakota, Jasmine Trapier
+# Members: Abhi Vinnakota, Jasmine Trapier, Nia Blake
 # Mentor: Dr. Kanampiu
 # Co-Mentors: Dr. Caldwell, Mr. Belton
 
