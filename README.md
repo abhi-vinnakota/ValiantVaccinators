@@ -6,8 +6,8 @@
 
 ## Background
 Many individuals in the United States have still chosen not to get vaccinated. This
-analysis of Covid-19 data might help change their minds. If not, it is only intended for 
-educational purposes only. 
+analysis of Covid-19 data might help change their minds. If not, this project is only intended for 
+educational purposes. 
 
 ## Goal
 Valiant Vaccinator's overall goal was to investigate Covid-19 trends in comparison 
