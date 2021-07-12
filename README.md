@@ -1,7 +1,8 @@
+# HPC PEARC 21 Hackathon
 # Team: Valiant Vaccinators
-# Members: Abhi Vinnakota, Jasmine Trapier, Nia Blake
-# Mentor: Dr. Kanampiu
-# Co-Mentors: Dr. Caldwell, Mr. Belton
+## Members: Abhi Vinnakota, Jasmine Trapier, Nia Blake
+## Mentor: Dr. Kanampiu
+## Co-Mentors: Dr. Caldwell, Mr. Belton
 
 ## Background
 Many individuals in the United States have still chosen not to get vaccinated. This
