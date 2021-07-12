@@ -1,4 +1,7 @@
-# ValiantVaccinators
+# Team: Valiant Vaccinators
+# Members: Abhi Vinnakota, Jasmine Trapier
+# Mentor: Dr. Kanampiu
+# Co-Mentors: Dr. Caldwell, Mr. Belton
 
 ## Background
 Many individuals in the United States have still chosen not to get vaccinated. This
