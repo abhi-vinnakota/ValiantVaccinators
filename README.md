@@ -9,6 +9,18 @@ educational purposes only.
 Valiant Vaccinator's overall goal was to investigate Covid-19 trends in comparison 
 with vaccination rates. More specifically, we wanted to compare the correlation between the number of vaccinations and the death/infection rate in America.
 
+## Technologies Used
+- Google Colab (HPC)
+- Jupyter Notebook
+- Python
+- Pandas
+- Sci kit learn
+- Matplotlib
+- NumPy
+- SciPy
+- Linear Regression
+- KNeighbors Regression
+
 ## Process
 To begin, we scraped data from https://ourworldindata.org/explorers/coronavirus-data-explorer. This dataset was then broken down and we created our own set of data 
 from what was already given. We decided to focus our investigation on Covid-19 in the United States from March 3rd, 2020 to July 3rd, 2021. We then read the data file using Jupyter Notebook in Google Colab. After the data was cleaned, we used python libraries to visualize multiple 
