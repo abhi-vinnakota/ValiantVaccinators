@@ -1,8 +1,5 @@
 # HPC PEARC 21 Hackathon
-# Team: Valiant Vaccinators
-## Members: Abhi Vinnakota, Jasmine Trapier, Nia Blake
-## Mentor: Dr. Kanampiu
-## Co-Mentors: Dr. Caldwell, Mr. Belton
+# Project: Covid 19 Prediction Analysis
 
 ## Background
 Many individuals in the United States have still chosen not to get vaccinated. This
@@ -10,7 +7,7 @@ analysis of Covid-19 data might help change their minds. If not, this project is
 educational purposes. 
 
 ## Goal
-Valiant Vaccinator's overall goal was to investigate Covid-19 trends in comparison 
+Our team's overall goal was to investigate Covid-19 trends in comparison 
 with vaccination rates. More specifically, we wanted to compare the correlation between the number of vaccinations and the death/infection rate in America.
 
 ## Technologies Used
